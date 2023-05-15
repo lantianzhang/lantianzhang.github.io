@@ -1,0 +1,87 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Lantian Zhang
+    - name: Address
+      value: Hoboken, NJ
+    - name: Visa Status
+      value: Greencard Holder
+
+- title: Education
+  type: time_table
+  contents:
+    - title: M.S, Applied Urban Science and Informatics
+      institution: New York University
+      year: 09.2022 - Current
+    - title: M.Arch, Architecture
+      institution: Virginia Tech
+      year: 09.2015 - 12.2017
+    - title: B.Arch, Architecture
+      institution: Wuhan University
+      year: 09.2010 - 06.2015
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Intermediate Architect
+      institution: DXA Studio
+      year: 07.2021 - 01.2023
+      description: Multi-family and single-family projects in Manhattan and Brooklyn
+    - title: Architectural Designer
+      institution: ISTUDIO Architects
+      year: 07.2020 - 06.2021
+    - title: Intern Architect I
+      institution: Glavé & Holmes Architecture 
+      year: 01.2018 - 06.2020
+      description: >
+        SD, DD, CD phase for VCU Scott House Renovation; 
+        CD, CA and Record Drawings for JMU Wilson Hall Renovation; 
+        Liberty University School of Business CD and CA Phase. 
+        SD conceptual plans, elevations and Revit model for a UVA Foundation project. 
+        SD Phase for multiple development projects in central Virginia. 
+        Record Drawings for VT Davidson Hall and W&M Alumni House. 
+        Prepare presentation materials for multiple interviews.
+    - title: Student Designer
+      institution: Community Design Assistance Center at Virginia Tech
+      year: 11.2016 - 06.2017
+    - title: Architectural Intern
+      institution: Cooper Robertson
+      year: 06.2016 - 08.2016
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Liscenses
+  type: time_table
+  contents:
+    - year: 2022
+      institution: New York State Education Department
+      title: Architect
+      description: Credential ID 044561
+      
+    - year: 2021
+      institution: Virginia Department of Professional and Occupational Regulation
+      title: Architect
+      description: Credential ID 0401018427
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
