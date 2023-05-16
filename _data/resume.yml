@@ -13,13 +13,23 @@
   contents:
     - title: M.S, Applied Urban Science and Informatics
       institution: New York University
-      year: 09.2022 - Current
+      year: 09.2022 - Present
     - title: M.Arch, Architecture
       institution: Virginia Tech
       year: 09.2015 - 12.2017
     - title: B.Arch, Architecture
       institution: Wuhan University
       year: 09.2010 - 06.2015
+
+- title: Coding and Software Skills
+  type: map
+  contents:
+    - name: Coding Languages
+      value: Python and C++
+    - name: Libraries and Packages
+      value: Pandas, GeoPandas, Shapely, Matplotlib
+    - name: Software
+      value: ArcGIS, QGIS, AutoCAD, Adobe Indesign, Photoshop, Illustrator, SkethUp, Rhino
 
 - title: Experience
   type: time_table

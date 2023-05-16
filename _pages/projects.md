@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Collection of academic projects since I enrolled in the M.S. program at NYU CUSP
 nav: true
 nav_order: 2
 display_categories: [work]
